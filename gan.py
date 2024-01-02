@@ -494,18 +494,7 @@ def main():
         #             }
         settings = { 
                 # 'param_1': ['adam', 'adam', 0.0002, 0.0001, 10, 0.05, "group_3","group_3", 50],
-                # 'param_2': ['adam', 'adam', 0.0002, 0.0001, 10, 0.05, "group_4","group_4", 50],  
-                # 'param_3': ['adam', 'adam', 0.0002, 0.0001, 10, 0.05, "group_5","group_5", 50],  
-                'param_4': ['adam', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "aluminium/5_mm","aluminium/5_mm/alu_1_3",50],  
-                # 'param_5': ['adam', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "aluminium/1_mm","aluminium/1_mm/alu_1_2",50],  
-                # 'param_6': ['adam', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "aluminium/2.5_mm","aluminium/2.5_mm/alu_1_2",50],  
-                # 'param_7': ['adam', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "aluminium/300_um","aluminium/300_um/alu_1_2",50],  
-                # 'param_8': ['adam', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "aluminium/500_um","aluminium/500_um/alu_1_2",50],  
-                # 'param_9': ['adam', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "glass", "glass_1_2", 50],
-                # 'param_10': ['rmsprop', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "hair_blond", "hair_1_2", 50],
-                # 'param_11': ['rmsprop', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "plastic", "plastic_1_2", 50],
-                # 'param_12': ['rmsprop', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "plunger_rubber", "plunger_1_2", 50],
-                # 'param_13': ['rmsprop', 'rmsprop', 0.0002, 0.0001, 10, 0.05, "steel", "steel_1_1", 50],
+             
                 }
 
         current_batch_size = 1
